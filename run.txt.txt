@@ -1,0 +1,6 @@
+open terminal :
+cd server
+npm start
+open new terminal :
+cd client 
+npm start
